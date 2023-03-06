@@ -50,7 +50,7 @@ http://13.233.162.99:8081/repository/package/
 <snapshotRepository>	
 <id>snapshots</id>
 <url>
-http://13.233.162.99:8081/repository/snapshots/
+http://13.233.162.99:8081/repository/snapshot/
 </url>
 </snapshotRepository>
 </distributionManagement>
